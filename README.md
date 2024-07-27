@@ -130,7 +130,7 @@ output {
 
 # 🚢 타이타닉 데이터를 통한 데이터 시각화
 
-## Q1. 전체 생존률 및 성별 생존 비교
+## Q1. 전체 생존률 및 성별 생존 비교.
 
 <div style="display: flex; flex-direction: row;">
     <div style="flex: 1; text-align: center;">
