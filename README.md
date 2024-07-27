@@ -386,7 +386,7 @@ sudo /usr/share/logstash/bin/logstash -f /{파일경로}/titanic_lost.conf
 
 ✓ 노블레스 오블리주를 실천한 인원 검색
 
-<p align="center"> <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/6b9f9b8a-fafe-4577-880c-cf3855c98ebe/Untitled.png?id=7d8c7cba-4a65-486e-992c-7d99b829d5c9&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722139200000&signature=eO-5OMbJpGQ27v9fhILD7FdyKTg1mQUkR5lq6-91VQ0&downloadName=Untitled.png" align="center" width="85%" height="150"></p>
+<p align="center"> <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/6b9f9b8a-fafe-4577-880c-cf3855c98ebe/Untitled.png?id=7d8c7cba-4a65-486e-992c-7d99b829d5c9&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722139200000&signature=eO-5OMbJpGQ27v9fhILD7FdyKTg1mQUkR5lq6-91VQ0&downloadName=Untitled.png" align="center" width="85%"></p>
 <br>
 
 - sql 문장
@@ -415,28 +415,13 @@ A : 영국(S)에서 탑승한 승객들의 수가 가장 많고, 많이 사망�
 
 A : 각 국에서 탑승한 인원들의 최애 객실 (Mysql로 작성)
 
-<!-- <div style="display: flex; flex-direction: row;">
-    <div style="flex: 1; text-align: center;">
-        <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/3d6e56c9-060b-4e74-9aab-7223f92966f7/Untitled.png?id=55cb4c87-c426-4188-b5a9-2f328724a3f3&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=MtJo92QJNkLZ6HKY3JvWv2VymMhenSgKxACR_UPaBMo&downloadName=Untitled.png" style="width: 95%; height : 90%;">
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/57a89aa3-f56a-4994-ab85-70933f0a1107/Untitled.png?id=eb0493d7-514b-48a0-8cca-712b571d7bad&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=VGBKhWA7YafHJ5rycMcpH1hcPqFsXGiTID9nhkCDesE&downloadName=Untitled.png" alt="두번째 그림" style="width: 95%; height : 90%;">
-    </div>
-</div>
-
-<div style="display: flex; flex-direction: row;">
-    <div style="flex: 1; text-align: center;">
-        <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/7973c9a3-94e2-4560-89f7-5bff590c2258/Untitled.png?id=1fca6f97-d184-4f4d-95c8-eebdbbbfc958&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=jaHWkmtKq5MHpFez7NytpNU29G44kivAj73cADD_ZV4&downloadName=Untitled.png" style="width: 70%; height : 70%;">
-    </div>
-</div> -->
-
 <p align="center">  <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/3d6e56c9-060b-4e74-9aab-7223f92966f7/Untitled.png?id=55cb4c87-c426-4188-b5a9-2f328724a3f3&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=MtJo92QJNkLZ6HKY3JvWv2VymMhenSgKxACR_UPaBMo&downloadName=Untitled.png" align="center" width="45%" height="170"> <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/57a89aa3-f56a-4994-ab85-70933f0a1107/Untitled.png?id=eb0493d7-514b-48a0-8cca-712b571d7bad&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=VGBKhWA7YafHJ5rycMcpH1hcPqFsXGiTID9nhkCDesE&downloadName=Untitled.png" align="center" width="45%" height="170"></p>
 
 <p align="center"> <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/7973c9a3-94e2-4560-89f7-5bff590c2258/Untitled.png?id=1fca6f97-d184-4f4d-95c8-eebdbbbfc958&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=jaHWkmtKq5MHpFez7NytpNU29G44kivAj73cADD_ZV4&downloadName=Untitled.png" align="center" width="50%" height="170"></p>
 
 <p align="center">↓↓↓↓↓↓</p>
 
-<p align="center"> <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/67069eca-ab1f-418d-9263-77a30c491fd9/Untitled.png?id=16597db4-8b09-4929-baed-c4962f388ce7&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=Q8g7D8kOtapwaoMF9u8qvL15TcKcomC-sfLYVleoC4M&downloadName=Untitled.png" align="center" width="85%" height="250"></p>
+<p align="center"> <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/67069eca-ab1f-418d-9263-77a30c491fd9/Untitled.png?id=16597db4-8b09-4929-baed-c4962f388ce7&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=Q8g7D8kOtapwaoMF9u8qvL15TcKcomC-sfLYVleoC4M&downloadName=Untitled.png" align="center" width="85%"></p>
 <br>
 
 - 결과를 담을 table 생성
@@ -598,8 +583,8 @@ sudo /usr/share/logstash/bin/logstash -f /{embark_*_count 경로}/embark_*_count
 - 탑승항구 별 인원수를 확인할 때 그림과 같이 empty 값이 같이 추가됨 → filter 추가하여 해결
 
 
-<p align="center">  <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/a3ad85ef-8d7e-448b-86f3-5a14293c0ec9/Untitled.png?id=6744aee5-bf80-4412-8e78-20ede0b6b364&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=8oJVADt-oxJHGxYEu7PZZUxpuNrxoxmlaPMCEtvXbpY&downloadName=Untitled.png" align="center" width="45%" height=>
-&nbsp&nbsp <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/d4a8671b-5d74-45c9-8594-45911bf8d8a0/Untitled.png?id=8a25bb54-9920-4fb0-8fbf-9cb7a8f27fbe&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=mc2ya3UMUx7tW2bqfMbmrfSaoms6ONm_ViE_EQ12xz0&downloadName=Untitled.png" align="center" width="45%" height=></p>
+<p align="center">  <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/a3ad85ef-8d7e-448b-86f3-5a14293c0ec9/Untitled.png?id=6744aee5-bf80-4412-8e78-20ede0b6b364&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=8oJVADt-oxJHGxYEu7PZZUxpuNrxoxmlaPMCEtvXbpY&downloadName=Untitled.png" align="center" width="45%">
+&nbsp&nbsp <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/d4a8671b-5d74-45c9-8594-45911bf8d8a0/Untitled.png?id=8a25bb54-9920-4fb0-8fbf-9cb7a8f27fbe&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=mc2ya3UMUx7tW2bqfMbmrfSaoms6ONm_ViE_EQ12xz0&downloadName=Untitled.png" align="center" width="45%"></p>
 <br>
 
 ## 🤝 TODO
