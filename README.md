@@ -132,15 +132,16 @@ output {
 
 ## Q1. 전체 생존률 및 성별 생존 비교.
 
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
     <div style="flex: 1; text-align: center;">
         <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/ce89338e-20c5-4725-bafd-32275f93d5b1/Untitled.png?id=6fbbea59-cbc5-481a-ae1a-2856abe1d881&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=wZD6KB2kVS9IZlSljBOPjpsszpIqqdOgNCGXpJim-gE&downloadName=Untitled.png" style="width: 10%;">
     </div>
     <div style="flex: 1; text-align: center;">
         <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/81686240-0301-4356-9344-0191a2e8f406/Untitled.png?id=0df65550-5554-4d99-8b9e-e79b04ed5c9e&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=guerILN1Tew6_6t21OgGEMWQcmX4qHmaTZPiewuvoBw&downloadName=Untitled.png" alt="두번째 그림" style="width: 10%;">
     </div>
-</div>
+</div> -->
 
+<p align="center">  <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/ce89338e-20c5-4725-bafd-32275f93d5b1/Untitled.png?id=6fbbea59-cbc5-481a-ae1a-2856abe1d881&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=wZD6KB2kVS9IZlSljBOPjpsszpIqqdOgNCGXpJim-gE&downloadName=Untitled.png" align="center" width="40%">  <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/81686240-0301-4356-9344-0191a2e8f406/Untitled.png?id=0df65550-5554-4d99-8b9e-e79b04ed5c9e&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=guerILN1Tew6_6t21OgGEMWQcmX4qHmaTZPiewuvoBw&downloadName=Untitled.png" align="center" width="40%"></p>
 
 A : 전체 생존률을 보았을 때  사망한 탑승객이 더 많은것을(사망 > 생존) 확인할 수 있다. 
 
