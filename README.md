@@ -87,7 +87,7 @@ embarked (VARCHAR(20))
 
 - DBeaver에서 생성한 sql 파일에서 titanic.csv 파일 가져오기
 
-![Untitled](https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/1a2e8776-05d2-4e26-a460-b3abb1cc4984/Untitled.png?id=a1b570b6-fc01-4b27-aa49-262d9b5804d7&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=gue0px3uo2sXkY2a8bG1wxGiUBgyd66DcLBVi39X88s&downloadName=Untitled.png)
+<p align="center"> <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/1a2e8776-05d2-4e26-a460-b3abb1cc4984/Untitled.png?id=a1b570b6-fc01-4b27-aa49-262d9b5804d7&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=gue0px3uo2sXkY2a8bG1wxGiUBgyd66DcLBVi39X88s&downloadName=Untitled.png" align="center" width="85%" height="500"></p>
 
 ## 3. logstash.conf 파일 수정
 
@@ -141,7 +141,8 @@ output {
     </div>
 </div> -->
 
-<p align="center">  <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/ce89338e-20c5-4725-bafd-32275f93d5b1/Untitled.png?id=6fbbea59-cbc5-481a-ae1a-2856abe1d881&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=wZD6KB2kVS9IZlSljBOPjpsszpIqqdOgNCGXpJim-gE&downloadName=Untitled.png" align="center" width="40%">  <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/81686240-0301-4356-9344-0191a2e8f406/Untitled.png?id=0df65550-5554-4d99-8b9e-e79b04ed5c9e&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=guerILN1Tew6_6t21OgGEMWQcmX4qHmaTZPiewuvoBw&downloadName=Untitled.png" align="center" width="40%"></p>
+<p align="center">  <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/ce89338e-20c5-4725-bafd-32275f93d5b1/Untitled.png?id=6fbbea59-cbc5-481a-ae1a-2856abe1d881&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=wZD6KB2kVS9IZlSljBOPjpsszpIqqdOgNCGXpJim-gE&downloadName=Untitled.png" align="center" width="45%">
+&nbsp&nbsp <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/81686240-0301-4356-9344-0191a2e8f406/Untitled.png?id=0df65550-5554-4d99-8b9e-e79b04ed5c9e&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=guerILN1Tew6_6t21OgGEMWQcmX4qHmaTZPiewuvoBw&downloadName=Untitled.png" align="center" width="45%"></p>
 
 A : 전체 생존률을 보았을 때  사망한 탑승객이 더 많은것을(사망 > 생존) 확인할 수 있다. 
 
@@ -149,14 +150,17 @@ A : 전체 생존률을 보았을 때  사망한 탑승객이 더 많은것을(�
 
 A : 등급별 사망률 확인한 결과 높은 등급일수록 생존자가 많은것을 알 수 있다.
 
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
     <div style="flex: 1; text-align: center;">
         <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/893d72c4-c206-4985-a7ce-b9b0717ecc1f/Untitled.png?id=4ba3645f-07f0-4e03-b0ae-d025e387d235&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=ijH-KQTP8N8Wh-uvj_MR1qBDxsI9dmZBEHoUZbzvCwY&downloadName=Untitled.png" style="width: 70%; height : 70%;">
     </div>
     <div style="flex: 1; text-align: center;">
         <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/3281b306-c763-4aa5-868c-95b0effb5763/Untitled.png?id=b4e2f9c9-d467-4052-a080-51d02cbb0c98&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=yzy5GEphFF_5GDSvbG_ZshpI_1Me9nSvW5bxqGSETHo&downloadName=Untitled.png" alt="두번째 그림" style="width: 90%; height : 70%;">
     </div>
-</div>  
+</div>   -->
+
+<p align="center">  <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/893d72c4-c206-4985-a7ce-b9b0717ecc1f/Untitled.png?id=4ba3645f-07f0-4e03-b0ae-d025e387d235&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=ijH-KQTP8N8Wh-uvj_MR1qBDxsI9dmZBEHoUZbzvCwY&downloadName=Untitled.png" align="center" width="45%" height="150">  
+&nbsp&nbsp <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/3281b306-c763-4aa5-868c-95b0effb5763/Untitled.png?id=b4e2f9c9-d467-4052-a080-51d02cbb0c98&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=yzy5GEphFF_5GDSvbG_ZshpI_1Me9nSvW5bxqGSETHo&downloadName=Untitled.png" align="center" width="40%" height="150"></p>
 
 ※ 사고로 인해 배의 하단부터 잠기기 시작 → 하단에 위치한 객실 등급의 사람들의 사망률이 높다
 
@@ -164,18 +168,23 @@ A : 등급별 사망률 확인한 결과 높은 등급일수록 생존자가 많
 
 A : 이를 반증하기 위한 데이터 분석 작업 - 여성 혹은 아이들의 생존률이 높은 것을 확인
 
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
     <div style="flex: 1; text-align: center;">
         <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/15632cd7-06fd-408b-8bb3-1c88c897134a/Untitled.png?id=bf6cc9dd-259f-4d82-953f-93402efad85d&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722139200000&signature=fjiJSnpPd9qA79yczD4fufT7NwiWUJDwgJVtorXLcME&downloadName=Untitled.png" style="width: 90%;">
     </div>
     <div style="flex: 1; text-align: center;">
         <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/18cc4cca-8d23-4c68-ae43-5c87b44f7d5d/Untitled.png?id=86fcf510-939e-47ea-83a8-2394a6dd1779&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722139200000&signature=Yh5bAyRTJOei5cuGBUwJexoLt5ysy2F7NP9XEYJDUdI&downloadName=Untitled.png" alt="두번째 그림" style="width: 90%;">
     </div>
-</div>
+</div> -->
+
+<p align="center">  <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/15632cd7-06fd-408b-8bb3-1c88c897134a/Untitled.png?id=bf6cc9dd-259f-4d82-953f-93402efad85d&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722139200000&signature=fjiJSnpPd9qA79yczD4fufT7NwiWUJDwgJVtorXLcME&downloadName=Untitled.png" align="center" width="45%">  
+&nbsp&nbsp <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/18cc4cca-8d23-4c68-ae43-5c87b44f7d5d/Untitled.png?id=86fcf510-939e-47ea-83a8-2394a6dd1779&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722139200000&signature=Yh5bAyRTJOei5cuGBUwJexoLt5ysy2F7NP9XEYJDUdI&downloadName=Untitled.png" align="center" width="45%"></p>
+
 
 ※ Devlop - 연령대별(10대, 20대, 30대…) 생존자 MySQL 사용해서 디벨롭해본 결과
 
-![Untitled](https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/13aeb9c0-a6db-4d5a-afe4-5dc8a55f5d5a/Untitled.png?id=650bc15a-38cc-4d97-a6c3-2a979a99933d&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722139200000&signature=HNnn1NbAUxITN7s2WLcGpxZYtoZ97h-a4EB3KUcQEUQ&downloadName=Untitled.png)
+<p align="center"> <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/13aeb9c0-a6db-4d5a-afe4-5dc8a55f5d5a/Untitled.png?id=650bc15a-38cc-4d97-a6c3-2a979a99933d&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722139200000&signature=HNnn1NbAUxITN7s2WLcGpxZYtoZ97h-a4EB3KUcQEUQ&downloadName=Untitled.png" align="center" width="85%" height="150"></p>
+<br>
 
 ### SQL 작성 및 .conf 파일 수정 방법 :
 
@@ -395,7 +404,8 @@ sudo /usr/share/logstash/bin/logstash -f /{파일경로}/titanic_lost.conf
 
 ✓ 노블레스 오블리주를 실천한 인원 검색
 
-![Untitled](https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/6b9f9b8a-fafe-4577-880c-cf3855c98ebe/Untitled.png?id=7d8c7cba-4a65-486e-992c-7d99b829d5c9&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722139200000&signature=eO-5OMbJpGQ27v9fhILD7FdyKTg1mQUkR5lq6-91VQ0&downloadName=Untitled.png)
+<p align="center"> <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/6b9f9b8a-fafe-4577-880c-cf3855c98ebe/Untitled.png?id=7d8c7cba-4a65-486e-992c-7d99b829d5c9&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722139200000&signature=eO-5OMbJpGQ27v9fhILD7FdyKTg1mQUkR5lq6-91VQ0&downloadName=Untitled.png" align="center" width="85%" height="150"></p>
+<br>
 
 - sql 문장
 
@@ -419,11 +429,11 @@ passengerid|survived|pclass|name                                  |embarked|
 
 A : 영국(S)에서 탑승한 승객들의 수가 가장 많고, 많이 사망하였다.
 
-![Untitled](https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/3281b306-c763-4aa5-868c-95b0effb5763/Untitled.png?id=b4e2f9c9-d467-4052-a080-51d02cbb0c98&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=yzy5GEphFF_5GDSvbG_ZshpI_1Me9nSvW5bxqGSETHo&downloadName=Untitled.png)
+<p align="center"> <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/3281b306-c763-4aa5-868c-95b0effb5763/Untitled.png?id=b4e2f9c9-d467-4052-a080-51d02cbb0c98&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722132000000&signature=yzy5GEphFF_5GDSvbG_ZshpI_1Me9nSvW5bxqGSETHo&downloadName=Untitled.png" align="center" width="85%" height="150"></p>
 
 A : 각 국에서 탑승한 인원들의 최애 객실 (Mysql로 작성)
 
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
     <div style="flex: 1; text-align: center;">
         <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/3d6e56c9-060b-4e74-9aab-7223f92966f7/Untitled.png?id=55cb4c87-c426-4188-b5a9-2f328724a3f3&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=MtJo92QJNkLZ6HKY3JvWv2VymMhenSgKxACR_UPaBMo&downloadName=Untitled.png" style="width: 95%; height : 90%;">
     </div>
@@ -436,12 +446,17 @@ A : 각 국에서 탑승한 인원들의 최애 객실 (Mysql로 작성)
     <div style="flex: 1; text-align: center;">
         <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/7973c9a3-94e2-4560-89f7-5bff590c2258/Untitled.png?id=1fca6f97-d184-4f4d-95c8-eebdbbbfc958&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=jaHWkmtKq5MHpFez7NytpNU29G44kivAj73cADD_ZV4&downloadName=Untitled.png" style="width: 70%; height : 70%;">
     </div>
-</div>
+</div> -->
+
+<p align="center">  <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/3d6e56c9-060b-4e74-9aab-7223f92966f7/Untitled.png?id=55cb4c87-c426-4188-b5a9-2f328724a3f3&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=MtJo92QJNkLZ6HKY3JvWv2VymMhenSgKxACR_UPaBMo&downloadName=Untitled.png" align="center" width="45%" height="80">
+&nbsp&nbsp <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/57a89aa3-f56a-4994-ab85-70933f0a1107/Untitled.png?id=eb0493d7-514b-48a0-8cca-712b571d7bad&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=VGBKhWA7YafHJ5rycMcpH1hcPqFsXGiTID9nhkCDesE&downloadName=Untitled.png" align="center" width="45%" height="80"></p>
+
+<p align="center"> <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/7973c9a3-94e2-4560-89f7-5bff590c2258/Untitled.png?id=1fca6f97-d184-4f4d-95c8-eebdbbbfc958&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=jaHWkmtKq5MHpFez7NytpNU29G44kivAj73cADD_ZV4&downloadName=Untitled.png" align="center" width="45%" height="80"></p>
 
 <p align="center">↓↓↓↓↓↓</p>
-<br>
 
-![Untitled](https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/67069eca-ab1f-418d-9263-77a30c491fd9/Untitled.png?id=16597db4-8b09-4929-baed-c4962f388ce7&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=Q8g7D8kOtapwaoMF9u8qvL15TcKcomC-sfLYVleoC4M&downloadName=Untitled.png)
+<p align="center"> <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/67069eca-ab1f-418d-9263-77a30c491fd9/Untitled.png?id=16597db4-8b09-4929-baed-c4962f388ce7&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=Q8g7D8kOtapwaoMF9u8qvL15TcKcomC-sfLYVleoC4M&downloadName=Untitled.png" align="center" width="85%" height="190"></p>
+<br>
 
 - 결과를 담을 table 생성
 
@@ -602,14 +617,16 @@ sudo /usr/share/logstash/bin/logstash -f /{embark_*_count 경로}/embark_*_count
 - 탑승항구 별 인원수를 확인할 때 그림과 같이 empty 값이 같이 추가됨 → filter 추가하여 해결
 
 
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
     <div style="flex: 1; text-align: center;">
         <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/a3ad85ef-8d7e-448b-86f3-5a14293c0ec9/Untitled.png?id=6744aee5-bf80-4412-8e78-20ede0b6b364&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=8oJVADt-oxJHGxYEu7PZZUxpuNrxoxmlaPMCEtvXbpY&downloadName=Untitled.png" style="width: 95%; height : 100%;">
     </div>
     <div style="flex: 1; text-align: center;">
         <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/d4a8671b-5d74-45c9-8594-45911bf8d8a0/Untitled.png?id=8a25bb54-9920-4fb0-8fbf-9cb7a8f27fbe&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=mc2ya3UMUx7tW2bqfMbmrfSaoms6ONm_ViE_EQ12xz0&downloadName=Untitled.png" alt="두번째 그림" style="width: 95%; height : 100%;">
     </div>
-</div>
+</div> -->
+<p align="center">  <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/a3ad85ef-8d7e-448b-86f3-5a14293c0ec9/Untitled.png?id=6744aee5-bf80-4412-8e78-20ede0b6b364&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=8oJVADt-oxJHGxYEu7PZZUxpuNrxoxmlaPMCEtvXbpY&downloadName=Untitled.png" align="center" width="45%" height="80">
+&nbsp&nbsp <img src="https://file.notion.so/f/f/039596a0-d2f0-43c6-98dc-67b9acb582a7/d4a8671b-5d74-45c9-8594-45911bf8d8a0/Untitled.png?id=8a25bb54-9920-4fb0-8fbf-9cb7a8f27fbe&table=block&spaceId=039596a0-d2f0-43c6-98dc-67b9acb582a7&expirationTimestamp=1722153600000&signature=mc2ya3UMUx7tW2bqfMbmrfSaoms6ONm_ViE_EQ12xz0&downloadName=Untitled.png" align="center" width="45%" height="80"></p>
 <br>
 
 ## 🤝 TODO
