@@ -89,7 +89,7 @@ embarked (VARCHAR(20))
 
 - DBeaver에서 생성한 sql 파일에서 titanic.csv 파일 가져오기
 
-<p align="center"> <img src="../Titanic_miniProject/images/Untitled1.png" align="center" width="85%" ></p>
+<p align="center"> <img src="./images/Untitled1.png" align="center" width="85%" ></p>
 
 ## 3. logstash.conf 파일 수정
 
@@ -134,8 +134,8 @@ output {
 
 ## Q1. 전체 생존률 및 성별 생존 비교.
 
-<p align="center">  <img src="../Titanic_miniProject/images/Untitled2.png" align="center" width="45%">
-&nbsp&nbsp <img src="../Titanic_miniProject/images/Untitled3.png" align="center" width="45%"></p>
+<p align="center">  <img src="./images/Untitled2.png" align="center" width="45%">
+&nbsp&nbsp <img src="./images/Untitled3.png" align="center" width="45%"></p>
 
 A : 전체 생존률을 보았을 때  사망한 탑승객이 더 많은것을(사망 > 생존) 확인할 수 있다. 
 
@@ -143,8 +143,8 @@ A : 전체 생존률을 보았을 때  사망한 탑승객이 더 많은것을(�
 
 A : 등급별 사망률 확인한 결과 높은 등급일수록 생존자가 많은것을 알 수 있다.
 
-<p align="center">  <img src="../Titanic_miniProject/images/Untitled4.png" align="center" width="40%" height="200">  
-&nbsp&nbsp <img src="../Titanic_miniProject/images/Untitled5.png" align="center" width="45%" height="200"></p>
+<p align="center">  <img src="./images/Untitled4.png" align="center" width="40%" height="200">  
+&nbsp&nbsp <img src="./images/Untitled5.png" align="center" width="45%" height="200"></p>
 
 ※ 사고로 인해 배의 하단부터 잠기기 시작 → 하단에 위치한 객실 등급의 사람들의 사망률이 높다
 
@@ -152,13 +152,13 @@ A : 등급별 사망률 확인한 결과 높은 등급일수록 생존자가 많
 
 A : 이를 반증하기 위한 데이터 분석 작업 - 여성 혹은 아이들의 생존률이 높은 것을 확인
 
-<p align="center">  <img src="../Titanic_miniProject/images/Untitled6.png" align="center" width="45%">  
-&nbsp&nbsp <img src="../Titanic_miniProject/images/Untitled7.png" align="center" width="45%"></p>
+<p align="center">  <img src="./images/Untitled6.png" align="center" width="45%">  
+&nbsp&nbsp <img src="./images/Untitled7.png" align="center" width="45%"></p>
 
 
 ※ Devlop - 연령대별(10대, 20대, 30대…) 생존자 MySQL 사용해서 디벨롭해본 결과
 
-<p align="center"> <img src="../Titanic_miniProject/images/Untitled8.png" align="center" width="85%" height="230"></p>
+<p align="center"> <img src="./images/Untitled8.png" align="center" width="85%" height="230"></p>
 <br>
 
 ### SQL 작성 및 .conf 파일 수정 방법 :
@@ -379,7 +379,7 @@ sudo /usr/share/logstash/bin/logstash -f /{파일경로}/titanic_lost.conf
 
 ✓ 노블레스 오블리주를 실천한 인원 검색
 
-<p align="center"> <img src="../Titanic_miniProject/images/Untitled10.png" align="center" width="85%"></p>
+<p align="center"> <img src="./images/Untitled10.png" align="center" width="85%"></p>
 <br>
 
 - sql 문장
@@ -404,17 +404,17 @@ passengerid|survived|pclass|name                                  |embarked|
 
 A : 영국(S)에서 탑승한 승객들의 수가 가장 많고, 많이 사망하였다.
 
-<p align="center"> <img src="../Titanic_miniProject/images/Untitled5.png" align="center" width="85%"></p>
+<p align="center"> <img src="./images/Untitled5.png" align="center" width="85%"></p>
 
 A : 각 국에서 탑승한 인원들의 최애 객실 (Mysql로 작성)
 
-<p align="center">  <img src="../Titanic_miniProject/images/Untitled11.png" align="center" width="45%" height="170"> <img src="../Titanic_miniProject/images/Untitled12.png" align="center" width="45%" height="170"></p>
+<p align="center">  <img src="./images/Untitled11.png" align="center" width="45%" height="170"> <img src="./images/Untitled12.png" align="center" width="45%" height="170"></p>
 
-<p align="center"> <img src="../Titanic_miniProject/images/Untitled13.png" align="center" width="50%" height="170"></p>
+<p align="center"> <img src="./images/Untitled13.png" align="center" width="50%" height="170"></p>
 
 <p align="center">↓↓↓↓↓↓</p>
 
-<p align="center"> <img src="../Titanic_miniProject/images/Untitled14.png" align="center" width="85%"></p>
+<p align="center"> <img src="./images/Untitled14.png" align="center" width="85%"></p>
 <br>
 
 - 결과를 담을 table 생성
@@ -576,8 +576,8 @@ sudo /usr/share/logstash/bin/logstash -f /{embark_*_count 경로}/embark_*_count
 - 탑승항구 별 인원수를 확인할 때 그림과 같이 empty 값이 같이 추가됨 → filter 추가하여 해결
 
 
-<p align="center">  <img src="../Titanic_miniProject/images/Untitled15.png" align="center" width="40%">
-&nbsp&nbsp <img src="../Titanic_miniProject/images/Untitled16.png" align="center" width="50%"></p>
+<p align="center">  <img src="./images/Untitled15.png" align="center" width="40%">
+&nbsp&nbsp <img src="./images/Untitled16.png" align="center" width="50%"></p>
 <br>
 
 ## 🤝 TODO
