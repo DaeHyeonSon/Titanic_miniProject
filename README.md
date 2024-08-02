@@ -4,9 +4,9 @@
 </h2>
 
 
-|<img src="https://avatars.githubusercontent.com/u/90971532?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/81280628?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/86951396?v=4" width="150" height="150"/>
-|:-:|:-:|:-:|
-|[@이승언](https://github.com/seungunleeee)|[@손대현](https://github.com/daehyeon)|[@이아영](https://github.com/ayleeee)|
+|<img src="https://avatars.githubusercontent.com/u/90971532?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/81280628?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/86951396?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/98442485?v=4" width="150" height="150"/>
+|:-:|:-:|:-:|:-:|
+|[@이승언](https://github.com/seungunleeee)|[@손대현](https://github.com/daehyeon)|[@이아영](https://github.com/ayleeee)|[@신혜원](https://github.com/haewoni)|
 ---
 <br>
 
