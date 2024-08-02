@@ -260,7 +260,6 @@ ORDER BY c_age ASC;
     tracking_column => "age"
     # 데이터의 컬럼 값을 사용할지 여부를 설정합니다.
     use_column_value => true
-    # 데이터베이스 쿼리 실행 주기를 설정합니다. 여기서는 5초마다 실행되도록 설정했습니다.
   }
 }
 filter {
